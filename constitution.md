@@ -1,5 +1,7 @@
 The Queensland Greens Inc. Constitution
-as at the 18th October 2015 (Note bylaws updated after this time)
+=======================================
+
+`as at the 18th October 2015` (Note bylaws updated after this time)
 
 
 Chapter One: Principles And Objectives
