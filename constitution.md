@@ -2,11 +2,14 @@ The Queensland Greens Inc. Constitution
 as at the 18th October 2015 (Note bylaws updated after this time)
 
 
-Chapter One: Principles And Objectives
+Chapter One: Principles And Objectives
+
 1. Name and Constitution
 2. The Charter of The Greens
 3. Means
+
 Chapter Two: Membership
+
 4. Members
 5. Associates (Supporters)
 6. Membership Entitlements
@@ -14,10 +17,14 @@ Chapter Two: Membership
 8. The Register
 9. Subscription Fees
 10. Resignation
+
 Chapter Three: Complaints, Discipline and Disputes
+
 11. Complaints, Discipline and Disputes
 12. Termination of membership
+
 Chapter Four: Structure
+
 13. Composition Of The Greens
 14. Local Autonomy
 15. Local Groups Or Electorate Branches
@@ -27,16 +34,24 @@ Chapter Four: Structure
 19. Queensland Campaign Committee (QCC)
 20. Constitution and Arbitration Committee (CAC)
 21. Queensland Policy Committee (QPC)
+
 Chapter Five: Procedures: Meetings And Decision-Making
+
 22. Annual General or General Meetings
 23. Cost Sharing of State Organisation
 24. Decision-Making
+
 Chapter Six: Candidates And Representatives
+
 25. Endorsement And Preferences
 26. Greens in Public Office
+
 Chapter Seven: Policy
+
 27. Formulation And Adoption Of Policy
+
 Chapter Eight: Formal Matters
+
 28. Funding
 29. Spokespersons
 30. Affirmative Action
@@ -51,35 +66,54 @@ Chapter Eight: Formal Matters
 39. Party Agent
 40. Registered Officer
 41. Financial Year
+
 By-law No. 1 - Responsibilities of the Officebearers
+
 1. The State Convenor
 2. The State Secretary
 3. The State Treasurer
+
 By-law No.2 - Employment of Queensland Greens non-parliamentary staff
+
 By-law No.3 - Preselection of candidates for the House of Representatives or the Legislative Assembly
+
 By-law No.4 - State Council Delegates
+
 By-law No. 5 – Code of ethics
+
 By-law No. 6 - Complaints Made to the Constitution and Arbitration Committee
+
 By-law No. 7 - Senate Preselection
+
 1. Preamble
 2. Positions to be elected
 3. Candidate Review
 4. Timetable
 5. Special Electoral Provisions
+
 By-law No. 8 - National Conference Delegation
+
 By-law No. 9 – Voting & Conduct for Internal Elections
+
 By-law No. 10 - Election of Management Committee
+
 By-law No. 11 - Membership
+
 By-law No. 12 - Suspension and Disendorsement of Candidates
+
 By-law No. 13 - Privacy of Membership Information
+
 1. Responsibilities
 2. Usage
 3. Direct Access
 4. Indirect access
 5. Breach of privacy
 6. Queensland Greens Confidentiality agreement
+
 By-law No. 14 - Local Spokesperson Rights and Responsibilities
+
 By-law No. 15 - Standing Orders
+
 1. Submission of motions
 2. Management Committee review of motions
 3. State Council Delegates
@@ -103,9 +137,13 @@ By-law No. 15 - Standing Orders
 21. Reports
 22. Teleconferencing/Online participation
 23. Miscellaneous
+
 Appendix 1 - Safe Meeting Procedure
+
 Appendix 2 - Motion template
+
 Bylaw 16 - Communications Working Group Terms of Reference
+
 1. Constitutional basis and name
 2. Membership
 3. Roles of the Group
@@ -115,7 +153,9 @@ Bylaw 16 - Communications Working Group Terms of Reference
 7. Communication and Decision Making
 8. Longevity
 9. Reporting and Accountability
+
 Bylaw 17 - Queensland Greens IT Working Group (QG_IWG) Terms of Reference and Code of Conduct
+
 17.1 Name
 17.2 Membership
 17.3 Roles of Group
@@ -124,29 +164,42 @@ Bylaw 17 - Queensland Greens IT Working Group (QG_IWG) Terms of Reference and Co
 17.6 Anticipated Longevity
 17.7 Reporting and Accountability
 17.8 Code of Conduct
+
 Bylaw 18 - Queensland Campaign Committee Bylaw
+
 Bylaw 19 - Preference Determination Process
+
 1. Preamble
 2. Master Tickets
 3. Possible Ticket Variations (PTV)
 4. Independents & Other parties
 5. Publication of preference position
+
 Bylaw 20 - Management Committee Assistants Bylaw
+
 Bylaw 21 - Reward and Recognition (R&R)
+
 1. Preamble
 2. Nominations
 3. Categories for Reward and Recognition
 4. Selection
 5. Rewards
 6. Presentation
+
 Bylaw 22 - Queensland Policy Committee (QPC)
+
 Bylaw 23 - Policy Working Groups
+
 By-law No. 24 - Preselection Nomination Form
+
 1. Preselection Nomination Form authorisation
 2. Nomination Form
+
 By-law No. 25 - Lead National Delegate, National Council and other delegations to Australian Greens’ bodies
 
 Chapter One: Principles And Objectives
+====================================
+
 1. Name and Constitution
 1.1. The name of the association is "The Queensland Greens Inc.", hereinafter referred to as 'the party'.
 
